@@ -114,7 +114,7 @@ Our target is to develop an ecosystem of products and services augmented with pr
     <img className='h-[40px] w-[120px] mt-2 ml-8' src='/img1/10.png'/></div>
 </div>
 <div className='flex sm:w-[1263px] w-screen  justify-center items-center '>
-<div className='flex sm:mt-12  text-center  sm:font-bold sm:text-4xl text-lg font-medium tracking-wide sm:ml-0  mt-[58px]  w-[234px]  sm:w-[800px]'><p>Fintract Global Open Banking features</p></div></div>
+<div className='flex sm:mt-12  text-center  sm:font-bold sm:text-5xl text-lg font-medium tracking-wide sm:tracking-normal sm:ml-28  mt-[58px]  w-[234px]  sm:w-[1000px]'><p>Fintract Global Open Banking Features</p></div></div>
 
 <div className="flex max-w-screen-xl mt-[60px] items-center justify-center px-20 text-center sm:hidden">
              <Swiper 
