@@ -92,13 +92,13 @@ const Banking = () => {
 
 
 <div className=' flex bg-[#0057FF] sm:h-96 sm:w-[1263px] h-[460px]  justify-center sm:text-center  text-white'>
-  <div className=' sm:w-[850px] sm:h-[400px] sm:mt-16 sm:text-lg sm:tracking-wider h-[365px] w-[293px]  mt-[35px]   text-sm tracking-widest  text-center'>
+  <div className=' sm:w-[850px] sm:h-[400px] sm:mt-16 sm:text-lg sm:tracking-wider h-[365px] w-[293px]  mt-[35px]   text-sm tracking-widest  sm:text-center text-justify'>
 Our target is to develop an ecosystem of products and services augmented with production environments, Fraudify Certified APIs by PSD2, enhanced authentication by OpenID and multi-factor authentication. With the UK as the initial market, we are working on an expansion strategy for the USA, Canada and Australia. The product utilizes the Open Banking Initiative’s technical architecture and advanced security mechanisms to develop an integrated ecosystem. It will enable banks to offer a comprehensive and dynamic service portfolio with impenetrable security for the user’s data. An ecosystem of services and authenticated APIs will be made available to fintech companies.
 </div></div>
 
 <div className='sm:h-96 flex flex-col items-center sm:text-center sm:bg-white bg-[#595959] sm:w-[1263px]  h-[326px]'>
   <p className=' sm:font-bold sm:text-4xl sm:mt-14 sm:tracking-normal sm:font-sans mt-[31px] text-lg text-white sm:text-black sm:ml-0  tracking-wider'>Many big comapany trusted us</p>
-  <div className='sm:hidden text-xs text-white h-[70px] w-[300px] mt-[16px] ml-[30px] mr-[30px] '>Our clients include multinational corporations, financial institutions, private equity funds, domestic corporations, joint ventures, emerging companies, start-ups, non-governmental organizations, international organizations, individuals and government.</div>
+  <div className='sm:hidden text-xs text-white h-[70px] w-[300px] mt-[16px] ml-[30px] mr-[30px] text-justify '>Our clients include multinational corporations, financial institutions, private equity funds, domestic corporations, joint ventures, emerging companies, start-ups, non-governmental organizations, international organizations, individuals and government.</div>
   <p className='text-center text-[#545454] mt-8 tracking-wider text-lg hidden sm:flex '>Our clients include multinational corporations, financial institutions, private equity funds,</p>
   <p className='text-center text-[#545454]  tracking-wider text-lg hidden sm:flex '> domestic corporations, joint ventures, emerging companies, start-ups, non-governmental</p>
   <p className='text-center text-[#545454]  tracking-wider text-lg hidden sm:flex '>  organizations, international organizations, individuals and government.</p>
@@ -256,7 +256,7 @@ Our target is to develop an ecosystem of products and services augmented with pr
 
 <div className='sm:h-[400px] bg-[#FFEEDA] sm:mt-24 sm:w-[1263px] w-screen  justify-center flex h-[496px] mt-10'>
   <div className='flex sm:flex-row justify-center flex-col'><img src='/img1/21.png' className='sm:h-80 sm:w-[500px] sm:mt-10 w-[297px] h-[196px]  sm:ml-0 '/>
-  <div className='sm:h-80 sm:w-[500px] bg-white sm:mt-10 w-[295px] h-[260px] sm:ml-0  text-center'><p className='sm:mt-10 sm:ml-14 sm:mr-16 sm:text-lg text-xs mt-4 ml-[36px] mr-[26px] sm:tracking-normal tracking-widest'>Open banking allows access and control of consumer banking and financial accounts through third-party applications. It has the potential to reshape the competitive landscape and consumer experience of the banking industry. It raises the potential for both promising gains and grave risks to consumers as more of their data is shared more widely.</p></div>
+  <div className='sm:h-80 sm:w-[500px] bg-white sm:mt-10 w-[295px] h-[260px] sm:ml-0  sm:text-center text-justify'><p className='sm:mt-10 sm:ml-14 sm:mr-16 sm:text-lg text-xs mt-4 ml-[36px] mr-[26px] sm:tracking-normal tracking-widest'>Open banking allows access and control of consumer banking and financial accounts through third-party applications. It has the potential to reshape the competitive landscape and consumer experience of the banking industry. It raises the potential for both promising gains and grave risks to consumers as more of their data is shared more widely.</p></div>
   </div>
 </div>
 
@@ -269,30 +269,34 @@ Our target is to develop an ecosystem of products and services augmented with pr
 
 <div className='h-[440px] w-screen flex justify-center bg-white mt-[65px] sm:hidden'>
   <div className='flex flex-col justify-center'><img src='/img1/image 19.png' className=' w-[297px]   h-[196px] '/>
-  <div className='h-[260px] w-[295px] bg-white  text-center '><p className='mt-4 ml-[36px] mr-[26px] text-xs tracking-widest'>Also known as ‘Open Bank Data’, this banking practice provides third-party financial service providers free access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs).</p></div>
+  <div className='h-[260px] w-[295px] bg-white  text-justify '><p className='mt-4 ml-[36px] mr-[26px] text-xs tracking-widest'>Also known as ‘Open Bank Data’, this banking practice provides third-party financial service providers free access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs).</p></div>
   
   </div>
 </div>
 
 <div className='sm:h-[400px] bg-[#FFEEDA] sm:mt-24 sm:w-[1263px] w-screen flex justify-center h-[496px] mt-4'>
   <div className='flex sm:flex-row justify-center flex-col'><img src='/img1/image 20.png' className='sm:h-80 sm:w-[500px] sm:mt-10 w-[297px] h-[196px]  sm:ml-0 '/>
-  <div className='sm:h-80 sm:w-[500px] bg-white sm:mt-10 w-[295px] h-[260px] sm:ml-0  text-center'><p className='sm:mt-10 sm:ml-14 sm:mr-16 sm:text-lg text-xs mt-4 ml-[36px] mr-[26px] sm:tracking-normal tracking-widest'>Our web app is time and labor efficient and offers features to establish user control over cash flow. We estimate that through the OB platform, banks will be able to generate approximately 30% more revenue.</p></div>
+  <div className='sm:h-80 sm:w-[500px] bg-white sm:mt-10 w-[295px] h-[260px] sm:ml-0  sm:text-center text-justify'><p className='sm:mt-10 sm:ml-14 sm:mr-16 sm:text-lg text-xs mt-4 ml-[36px] mr-[26px] sm:tracking-normal tracking-widest'>Our web app is time and labor efficient and offers features to establish user control over cash flow. We estimate that through the OB platform, banks will be able to generate approximately 30% more revenue.</p></div>
   </div>
 </div>
 
 <div className='flex sm:w-[1263px] w-screen justify-center items-center'>
 <div className='sm:mt-32 text-center mt-[59px] sm:ml-0  tracking-wide'><p className='sm:text-4xl sm:font-bold sm:tracking-normal text-base font-semibold'>Related Articles</p></div></div>
 
-<div className='mt-14 flex flex-col sm:flex-row w-screen justify-center items-center  sm:w-[1263px] '>
+<div className='mt-14 flex flex-col sm:flex-row w-screen justify-center items-center sm:text-center text-justify  sm:w-[1263px] '>
 <div className='flex flex-col w-80 h-128 sm:ml-0   justify-center items-center'>
     <div className='  justify-center'><img className='w-72 h-48 mt-4' src='/img1/22.png'/></div>
+    <div className='sm:hidden text-justify '><p className='font-semibold mt-10'>
+Fraud Landscape and risk in the open banking - sharing customer data</p>
+     <p className='mt-6'> What hasn’t technological advancement made facile in today’s world? Want to purchase groceries? Well, they are just one tap away from being delivered on your porch.</p></div>
+    <div className='hidden sm:flex flex-col'>
     <p className=' mt-10 font-semibold'>Fraud Landscape and risk in the open</p>
     <p className=' font-semibold'>banking - sharing customer data</p>
     <p className='text-sm mt-8 text-[#5B5B5B]'>What hasn’t technological advancement</p>
     <p className='text-sm text-[#5B5B5B]'>made facile in today’s world? Want to</p>
     <p className='text-sm text-[#5B5B5B] '>purchase groceries? Well, they are just one</p>
     <p className='text-sm text-[#5B5B5B] '>tap away from being delivered on your</p>
-    <p className='text-sm text-[#5B5B5B] '> porch.</p>
+    <p className='text-sm text-[#5B5B5B] '> porch.</p></div>
     <div className='bg-[#0057FF] shadow-[0_0px_0px_-4px_rgb(0,0,0,0.25)] text-center mt-10 w-24 h-8 rounded sm:ml-0 '><a href='/a'><p className='text-white text-sm mt-1'>Read more</p></a></div>
 
 
@@ -300,11 +304,13 @@ Our target is to develop an ecosystem of products and services augmented with pr
 
   <div className='flex flex-col w-80 h-128 justify-center items-center mt-[54px] sm:mt-0 '>
     <div className='  justify-center'><img className='w-72 h-48 mt-4' src='/img1/23.png'/></div>
+    <div  className='sm:hidden text-justify '><p className='font-semibold mt-10'>The Future Of Open Banking</p><p className='mt-6'>Open Banking is a secure technology, which consists of an API (Application Programming Interface) that allows consumers and SME (Small Medium Enterprises) to safely</p></div> 
+    <div className='hidden sm:flex flex-col'>
     <p className=' mt-10 font-semibold'>The Future Of Open Banking</p>
     <p className='text-sm mt-8 sm:mt-14 text-[#5B5B5B]'>Open Banking is a secure technology, which </p>
     <p className='text-sm text-[#5B5B5B]'>consists of an API (Application Programming</p>
     <p className='text-sm text-[#5B5B5B] '> Interface) that allows consumers and SME</p>
-    <p className='text-sm text-[#5B5B5B] '> (Small Medium Enterprises) to safely</p>
+    <p className='text-sm text-[#5B5B5B] '> (Small Medium Enterprises) to safely</p></div>
     <div className='bg-[#0057FF] shadow-[0_0px_0px_-4px_rgb(0,0,0,0.25)] text-center mt-14 w-24 h-8 rounded sm:ml-0 '><a href='/a'><p className='text-white text-sm mt-1'>Read more</p></a></div>
     
 
@@ -313,12 +319,14 @@ Our target is to develop an ecosystem of products and services augmented with pr
 
   <div className='flex flex-col w-80 h-128 justify-center items-center mt-[54px] sm:mt-0 '>
     <div className='  justify-center'><img className='w-72 h-48 mt-4' src='/img1/24.png'/></div>
+    <div  className='sm:hidden text-justify '><p className='font-semibold mt-10'>Online banking frauds and challenges faced by businesses</p> <p className='mt-6'>Banks are the engines that run the operations of the financial sector, monetary markets and the growth of an economy. The innovation in technology</p></div>
+    <div className='hidden sm:flex flex-col'>
     <p className=' mt-10 font-semibold'>Online banking frauds and </p>
     <p className=' font-semibold'>challenges faced by businesses</p>
     <p className='text-sm mt-8 text-[#5B5B5B]'>Banks are the engines that run the </p>
     <p className='text-sm text-[#5B5B5B]'>operations of the financial sector,</p>
     <p className='text-sm text-[#5B5B5B] '> monetary markets and the growth of an</p>
-    <p className='text-sm text-[#5B5B5B] '>economy. The innovation in technology</p>
+    <p className='text-sm text-[#5B5B5B] '>economy. The innovation in technology</p></div>
     <div className='bg-[#0057FF] shadow-[0_0px_0px_-4px_rgb(0,0,0,0.25)] text-center mt-14 w-24 h-8 rounded sm:ml-0q '><a href='/a'><p className='text-white text-sm mt-1'>Read more</p></a></div>
     
    
@@ -378,8 +386,8 @@ Our target is to develop an ecosystem of products and services augmented with pr
       <div className='flex justify-center items-center'>
       <div className='w-[239px] sm:w-72 flex flex-col  '>
       <ul className=' list-disc ml-4 '>
-    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] '>Our product, powered by analytics, produces a full visualization, combined with a detailed analysis.</li>
-    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px]'>The product offers convenience and time efficiency, enabling a user to compare multiple transactions with ease.</li></ul></div> </div>
+    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] sm:text-left text-justify '>Our product, powered by analytics, produces a full visualization, combined with a detailed analysis.</li>
+    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] sm:text-left text-justify'>The product offers convenience and time efficiency, enabling a user to compare multiple transactions with ease.</li></ul></div> </div>
     
   </div>
 
@@ -389,8 +397,8 @@ Our target is to develop an ecosystem of products and services augmented with pr
     <div className='flex justify-center items-center'>
       <div className='w-[239px] sm:w-72 flex flex-col  '>
     <ul className=' list-disc ml-4'>
-    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px]'>Our product is incredibly safe, owing to the additional layer of security through AISP & PISP APIs.</li>
-    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px]'>The borrower can share their contact details, income, credit score and history with the lender at the click of a button.</li></ul></div></div>
+    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] sm:text-left text-justify'>Our product is incredibly safe, owing to the additional layer of security through AISP & PISP APIs.</li>
+    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] sm:text-left text-justify'>The borrower can share their contact details, income, credit score and history with the lender at the click of a button.</li></ul></div></div>
     
   </div>
 
@@ -399,8 +407,8 @@ Our target is to develop an ecosystem of products and services augmented with pr
     <div className='justify-center items-center flex'><img className='sm;w-72 sm:h-48 sm:mt-4  sm:ml-0 w-[239px] h-[161px]' src='/img1/image 25.png'/></div>
     <div className='flex justify-center items-center'>
       <div className='w-[239px] sm:w-72 flex flex-col  '><ul className=' list-disc ml-4'>
-    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px]'>End to End encryption enables information to be exchanged and stored very safely.</li>
-    <li className='text-sm text-white sm:mt-4   sm:ml-0  mt-[22px]'>Our web app allows users to bank from their systems, remotely and conveniently.</li></ul></div></div>
+    <li className='text-sm text-white sm:mt-4  sm:ml-0  mt-[22px] sm:text-left text-justify'>End to End encryption enables information to be exchanged and stored very safely.</li>
+    <li className='text-sm text-white sm:mt-4   sm:ml-0  mt-[22px] sm:text-left text-justify'>Our web app allows users to bank from their systems, remotely and conveniently.</li></ul></div></div>
     
   </div>
   </div>
@@ -424,7 +432,7 @@ Our target is to develop an ecosystem of products and services augmented with pr
                   <img src='/img/FG LOGO_white 4.png' className='sm:w-[80px] sm:h-[60px] sm:ml-[50px] sm:mt-10 w-[45px] h-[36.7px] ml-[33px] mt-[50px]'/>
                   <p className='sm:ml-[50px] text-white font-bold sm:mt-14 sm:text-3xl ml-[33px] mt-[40px] text-2xl sm:mr-0 mr-[200px]'>FINTRACT GLOBAL</p></div>
                   <div className='h-20 w-4/5 sm:ml-[50px] sm:mt-4 ml-[33px] mt-[11px]'>
-                  <p className='text-white sm:text-sm text-xs'>At Fintract Global Ltd, we combine a cutting-edge tech stack with exceptional talent from Europe, Asia and America to lead change in how financial entities work. Headquartered in London, Fintract Global develops cutting edge fintech and regtech products.</p></div>
+                  <p className='text-white sm:text-sm text-xs sm:text-left text-justify'>At Fintract Global Ltd, we combine a cutting-edge tech stack with exceptional talent from Europe, Asia and America to lead change in how financial entities work. Headquartered in London, Fintract Global develops cutting edge fintech and regtech products.</p></div>
                   <div className='flex flex-row sm:mt-4 mt-[26px]'>
                   <a href='/a'><AiOutlineTwitter className='text-white w-6 h-6 ml-12'/></a>
                   <a href='/a'><AiFillInstagram  className='text-white w-6 h-6 ml-4'/></a>
@@ -477,7 +485,7 @@ Our target is to develop an ecosystem of products and services augmented with pr
                 <p className='text-center text-white text-xs  hidden sm:flex sm:justify-center sm:items-center '>enable us to enhance the services we provide.</p>
                 
                 <div className='sm:hidden flex flex-col justify-center items-center text-center'>
-                <p className='text-white text-xs ml-[14px] mr-[10px]  mt-[30px] sm:justify-center sm:items-center'>Fintract Global takes your privacy very seriously. We may process your personal information for carefully considered and specific purposes which are in our interests and enable us to enhance the services we provide.</p>
+                <p className='text-white text-xs ml-[14px] mr-[10px]  mt-[30px] sm:justify-center sm:items-center text-justify'>Fintract Global takes your privacy very seriously. We may process your personal information for carefully considered and specific purposes which are in our interests and enable us to enhance the services we provide.</p>
                 <p className=' text-white text-xs mt-4 justify-end'>privacy policy</p>
                 <p className=' text-white text-xs mt-4 justify-start'>© Copyright 2023. All rights reserved</p>
                 </div>
