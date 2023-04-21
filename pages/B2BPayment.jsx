@@ -45,10 +45,10 @@ const B2BPayment = () => {
                 <a href='a' className=' mt-6 w-24 h-8 ml-6 text-white  hover:text-gray bg-blue-600 text-center hidden sm:flex ' ><div className='flex flex-row'><p className='ml-4 mt-1 '>Sign up</p> <HiArrowUpRight className='text-s ml-1 mt-2 text-center'/></div></a></div>
           </div>
 
-<div className=' sm:bg-9-img bg-10-img bg-cover sm:h-[700px] sm:w-[1263px] w-screen h-[331px]  '>
+<div className=' sm:bg-9-img bg-10-img  bg-cover sm:h-[700px] sm:w-[1263px] max-w-screen-xl h-[331px]  '>
             
             
-            <div className='flex bg-gray-900 bg-opacity-50 sm:h-[700px] sm:w-[1263px] max-w-screen-xl h-[331px]  bg-cover justify-center  text-center '>
+            <div className='flex sm:bg-gray-900 sm:bg-opacity-20 sm:h-[700px] sm:w-[1263px] max-w-screen-xl h-[331px]  bg-cover justify-center  text-center '>
             <div className='flex flex-col'>
               
 
@@ -79,7 +79,7 @@ const B2BPayment = () => {
 
 <div className='flex  flex-col bg-[#D89D9D] bg-opacity-40 sm:w-[1263px] text-center h-32'>
             <p className='text-black sm:mt-4 sm:ml-0 font-bold sm:text-4xl mt-[0px] ml-[0px] text-xl'>FINTRACT GLOBAL </p>
-            <p className=' text-blue-600 sm:mt-3 sm:ml-0 font-bold sm:text-4xl ml-[0px] text-xl '>B2B FEATURES</p></div>
+            <p className=' text-[#5F6CE0] sm:mt-3 sm:ml-0 font-bold sm:text-4xl ml-[0px] text-xl '>B2B FEATURES</p></div>
 
 
 
